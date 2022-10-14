@@ -1,0 +1,3 @@
+{% if site.url_zh %}
+  {% assign base_path_zh = site.url_zh %}
+{% endif %}
